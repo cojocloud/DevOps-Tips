@@ -67,10 +67,10 @@ This gives recruiters a quick scan of your expertise.
 Use GitHub badges for a polished look:
 
 ```
-![GitHub stars](https://img.shields.io/github/stars/yourusername/devops-tips)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/devops-tips)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/devops-tips)
-![GitHub license](https://img.shields.io/github/license/yourusername/devops-tips)
+![GitHub stars](https://img.shields.io/github/stars/com:cojocloud/DevOps-Tips.git)
+![GitHub forks](https://img.shields.io/github/forks/com:cojocloud/DevOps-Tips.git)
+![GitHub issues](https://img.shields.io/github/issues/com:cojocloud/DevOps-Tips.git)
+![GitHub license](https://img.shields.io/github/license/com:cojocloud/DevOps-Tips.git)
 ```
 This shows activity and engagement on the repo.
 ---
