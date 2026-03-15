@@ -1,7 +1,7 @@
 1️⃣ Core Repo Structure
 
 Organize your repo so each domain is easy to navigate:
-
+```
 devops-tips/
 │
 ├── git/
@@ -30,7 +30,7 @@ devops-tips/
 │
 └── troubleshooting/
     └── common-errors.md
-
+```
 Tip: Keep each .md file 1–2 pages long, focused, and solution-oriented. Screenshots or terminal outputs are highly effective.
 
 ---
