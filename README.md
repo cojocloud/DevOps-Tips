@@ -134,7 +134,6 @@ It’s about automation, reliability, repeatability, observability, and continuo
 
 This repository focuses on practical engineering solutions, not theory.
 
----
 ## 📬 Author
 
 Maintained by a DevOps practitioner documenting real-world solutions while working with:
@@ -147,6 +146,6 @@ Kubernetes (EKS, Helm)
 
 Automation and reliability engineering
 
----
+
 “Good engineers write code.
 Great engineers document solutions.”
