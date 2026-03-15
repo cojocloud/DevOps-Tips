@@ -1,6 +1,6 @@
 1️⃣ Core Repo Structure
 
-Organize your repo so each domain is easy to navigate:
+Organize your repo so )each domain is easy to navigate:
 ```
 devops-tips/
 │
@@ -67,7 +67,7 @@ This gives recruiters a quick scan of your expertise.
 Use GitHub badges for a polished look:
 
 ```
-![GitHub stars](https://img.shields.io/github/stars/com:cojocloud/DevOps-Tips.git)
+![GitHub stars](https://img.shields.io/github/stars/com:cojocloud/DevOps-Tips.git
 ![GitHub forks](https://img.shields.io/github/forks/com:cojocloud/DevOps-Tips.git)
 ![GitHub issues](https://img.shields.io/github/issues/com:cojocloud/DevOps-Tips.git)
 ![GitHub license](https://img.shields.io/github/license/com:cojocloud/DevOps-Tips.git)
