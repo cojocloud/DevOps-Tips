@@ -1,9 +1,9 @@
 # 🚀 DevOps Tips, Tricks & Engineering Notes
 
-![GitHub stars](https://img.shields.io/github/stars/cojocloud/DevOps-Tips.git)
-![GitHub forks](https://img.shields.io/github/forks/cojocloud/DevOps-Tips.git)
-![GitHub issues](https://img.shields.io/github/issues/cojocloud/DevOps-Tips.git)
-![GitHub license](https://img.shields.io/github/license/cojocloud/DevOps-Tips.git)
+![GitHub stars](https://img.shields.io/github/stars/cojocloud/DevOps-Tips)
+![GitHub forks](https://img.shields.io/github/forks/cojocloud/DevOps-Tips)
+![GitHub issues](https://img.shields.io/github/issues/cojocloud/DevOps-Tips)
+![GitHub license](https://img.shields.io/github/license/cojocloud/DevOps-Tips)
 
 Welcome to **DevOps Tips, Tricks & Engineering Notes** — a curated collection of **real-world DevOps knowledge**, commands, workflows, and solutions collected from hands-on experience in cloud infrastructure, CI/CD, automation, and Kubernetes.
 
